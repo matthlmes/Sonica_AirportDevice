@@ -6,4 +6,6 @@ Sonica Team Members:
 -  William Drummond, responsible for the Airfield Management System
 -  Stuart Keith, responsible for the weather device
 
+Further System info inside the folder README.md
+
 (reupload as other repository is private)
